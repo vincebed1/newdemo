@@ -1,1 +1,1 @@
-My local file created in my local repo
+This is a content created locally using a local repo
